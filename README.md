@@ -1,10 +1,10 @@
-# agal
+# Agal
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Mobile App is designed to assist users in tracking their heartbeat through the use of their smartphone's flashlight sensor. This cutting-edge technology provides users with a convenient way to monitor their heart rate and maintain a healthy lifestyle. The app automatically saves the data collected during each session to Google's firebase, enabling users to analyze their health status over time. With this information at their fingertips, users can make informed decisions about their health and well-being. Whether you're an athlete looking to optimize your workouts or someone who wants to keep a closer eye on your heart health, this Mobile App is an excellent tool for achieving your goals.
 
 A few resources to get you started if this is your first Flutter project:
 
